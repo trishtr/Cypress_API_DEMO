@@ -1,0 +1,14 @@
+{
+   "cvu" : "CVU",
+   "help": "help",
+   "ICU":"icu",
+   "OR": "OR",
+   "two_main": "2main",
+   "three_main": "3main",
+   "four_TS": "4TS.16x9/",
+   "EDS": "EDS.16x9",
+   "Ward1": "Ward1",
+   "PACU" : "PACU",
+   "overflow": "OverflowBeds",
+   "SDS": "SDS"
+}
